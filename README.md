@@ -1,5 +1,5 @@
-# WHU-Beamer-Theme
-WHU 风格的 Beamer 主题，可用于答辩、汇报等
+# FOCUSLAB-Beamer-Theme
+focuslab 风格的 Beamer 主题，可用于答辩、汇报等
 
 ## Instructions
 
